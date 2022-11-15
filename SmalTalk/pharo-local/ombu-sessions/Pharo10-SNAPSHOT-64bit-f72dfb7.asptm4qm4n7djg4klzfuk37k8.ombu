@@ -1,0 +1,1 @@
+OmEntry {	#tags : {		#author : 'JuanPedro',		#time : DateAndTime [ '2022-11-15T15:46:15.025-05:00' ],		#prior : OmReference [ 'Pharo10-SNAPSHOT-64bit-f72dfb7.ct40ypieuv030axmv4gddk4ps', '56' ],		#self : OmReference [ '1' ]	},	#content : EpSessionSnapshot {		#imageName : 'D:\\Visaul Docs\\Pharo 10.0 - 64bit (stable)2.1.image'	}}
